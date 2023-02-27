@@ -1,1 +1,3 @@
 # GCFuctions
+
+alıştırmalar
